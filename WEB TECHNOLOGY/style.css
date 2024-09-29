@@ -102,7 +102,7 @@ footer {
 .image {
     border-radius: 10%;
     max-width: 100%; /* Make image responsive */
-    height: 120px;
+    height: 135px;
     width: 150px; /* Maintain aspect ratio */
 }
 
